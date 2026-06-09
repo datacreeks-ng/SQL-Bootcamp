@@ -30,4 +30,4 @@ To keep operations simple for now, the sales assistant is responsible for record
 ---
 Throughout this bootcamp, we will use this business scenario to learn how SQL is applied in real-world business environments.
 
-Although this is a simplified example, it reflects the kind of data problems analysts and engineers solve in actual organizations. In a fully developed business, the database structure and operations would be much more complex.
+Although this is a simplified example, it is similar to the kind of data problems data analysts and engineers solve in actual organizations. In a fully developed business, the database structure and operations would be much more complex.
