@@ -1,4 +1,5 @@
 # SQL Bootcamp Case Study Introduction
+![alt text](image.png)
 
 Hello, and welcome to this SQL Bootcamp.
 
